@@ -304,5 +304,3 @@ void jugar(bool contraCPU, bool mejorDeTres) {
     cout << "Total de tiros de " << j1.nombre << ": " << tirosJ1 << "\n";
     cout << "Total de tiros de " << j2.nombre << ": " << tirosJ2 << "\n";
 }
-
-//hola gente de tiktok.
